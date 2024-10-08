@@ -10,6 +10,10 @@ class Player:
   def tick(self):
     self.x += self.sx
     self.y += self.sy
+
+    if self. y > 720 - 32:
+      self. y = 720-32
+      self. sy=0
     
     self.sx *= 0.85
     self.sy += 1
