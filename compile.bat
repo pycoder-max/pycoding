@@ -1,0 +1,1 @@
+PyInstaller --name=Shooting_game --icon=icon1.ico --noconsole --onefile game.py
