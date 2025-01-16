@@ -1,4 +1,5 @@
-# pycoding 
+# game-tkinter 
 founder : Rishal pk
-,
-Co founder : Sayooj C
+
+my main aim is to make a game completely with default modules in python.
+anyone can help me.
